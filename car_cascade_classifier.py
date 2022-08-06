@@ -6,7 +6,7 @@ cap = cv2.VideoCapture('video1.avi')
 while(True):
     ret, frame = cap.read()
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    cars = car_cascade.detectMultiScale(gray, 1.1, 4)
+    cars = car_cascade.detectMultiScale(gray, 1.2, 3)
 
     for (x,y,w,h) in cars:
         cv2.rectangle(frame, (x,y), (x+w, y+h), (255,0,0), 3)
