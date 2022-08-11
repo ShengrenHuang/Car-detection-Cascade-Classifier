@@ -12,5 +12,6 @@
 
 # Reference
 [1] https://github.com/andrewssobral/vehicle_detection_haarcascades
+[2] Automatic Detection of Cars in Real Roads using Haar-like Features
 
 I use his xml file with my video
