@@ -1,8 +1,7 @@
 # Car-detection-Cascade-Classifier
 
-在本項練習中，我們利用[1] 中的車輛 cascade classifier 來偵測 台灣國家公園停車場周遭的車輛。
 
-In this practice, we apply the XML file of car cascade classifier from [1] to detect the vehicles on the mountain road. According to [2], it has been stated that Haar-like features were especially targeted to implement face detection. Nevertheless, the framework of cascade classifier with Haar feature can be extened to all-purpose.  
+In this practice, we apply the XML file of the car cascade classifier from [1] to detect the vehicles on the mountain road. According to [2], it has been stated that Haar-like features were primarily targeted to implement face detection. Nevertheless, the framework of cascade classifier with Haar feature can be extended to all-purpose. The car cascade classifier was trained using the images taken of the freeway in southern California [1]. The result shows that the vehicles are successfully detected by the algorithm even though the objects are not human faces and the location in the video is not in California. 
 
 
 ![image](https://user-images.githubusercontent.com/108604868/184280481-c9ad9f12-fc61-4bf1-97eb-409d2527f686.png)
@@ -18,4 +17,4 @@ https://user-images.githubusercontent.com/108604868/184280499-e8265bf6-1467-489b
 [1] https://github.com/andrewssobral/vehicle_detection_haarcascades  
 [2] Automatic Detection of Cars in Real Roads using Haar-like Features
 
-I use his xml file with my video
+
