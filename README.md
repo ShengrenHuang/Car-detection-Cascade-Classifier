@@ -14,7 +14,8 @@ https://user-images.githubusercontent.com/108604868/184280499-e8265bf6-1467-489b
 
 
 # Reference
-[1] https://github.com/andrewssobral/vehicle_detection_haarcascades  
-[2] Automatic Detection of Cars in Real Roads using Haar-like Features
+[1] Andrewssobral, Vehicle Detection Haarcascades:
+https://github.com/andrewssobral/vehicle_detection_haarcascades .  
+[2] M. Oliveira and V. Santos, Automatic Detection of Cars in Real Roads using Haar-like Features, 2008.
 
 
